@@ -1,6 +1,7 @@
 # Purpose
 
 Implement a variant of the PL/C persistent diagnostic compiler originally developed at Cornell University to run on the IBM 360 computer.
+https://en.m.wikipedia.org/wiki/PL/C
 
 # Why
 
