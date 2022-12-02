@@ -16,14 +16,27 @@ Implementing these ideas in their original form can provide insight into reduced
 
 - As a parallel effort, evaluate function of a [C interpreter for PL/I](http://www.mpsinc.com/pl1c.html)
 
-- Test PL/I programs http://teampli.net/
+- Read more about [PL/C design](https://ecommons.cornell.edu/handle/1813/5952) and user manual
 
-- Read more about [PL/C design](https://ecommons.cornell.edu/handle/1813/5952)
-
-- Implement a subset for simple programs
+- Implement and test a PL/C subset for simple programs
 
 - Progressively expand to more complex PL/I lanugage subsets
 
 - Increase compiler persistence and facilitation
 
 - Consider a concrete benchmark such as [counting with a hashmap](https://benchmarksgame-team.pages.debian.net/benchmarksgame/description/knucleotide.html#knucleotide) to guide development
+
+# Related Projects
+
+[Iron Spring](http://iron-spring.com/download.html)
+
+[Team Pl/I](http://teampli.net/)
+
+[Cranelift](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/README.md)
+
+[HLS4ML](https://github.com/fastmachinelearning/hls4ml)
+
+
+
+
+
